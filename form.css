@@ -1,0 +1,19 @@
+body{
+    font-size:medium;
+    font-family:'Arial',
+ 
+}
+div{
+    background-color: lightgray;
+    width: 400px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: none;
+}
+input,textarea,select{
+    border-color: rgb(27, 25, 22);
+    font-size: 15px;
+    margin:5px;
+    border-radius: 5px;
+}
+    
